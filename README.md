@@ -1,2 +1,5 @@
 # hello-world
-Orientation repository
+
+Gettingstartedwithgithubtoday,butunfortunatelyIhavenothumbs!
+
+Luckilymypinkystillworks.
